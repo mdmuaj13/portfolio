@@ -618,6 +618,10 @@ body.offcanvas {
   filter: alpha(opacity=40);
   font-size: 16px; }
 
+.org {
+  font-weight: bold;
+}
+
 .services {
   margin-bottom: 30px;
   padding: 1.5em;
